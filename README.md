@@ -1,6 +1,7 @@
 
 👋 Hi, I’m Kidist Demessie
-🔭 I’m currently working on:
+
+## 🔭 I’m currently working on:
 
 -Downscaling hydro-climatology datasets using machine learning algorithms.
 
@@ -8,7 +9,7 @@
 
 -Fusing remotely sensed features to predict lake evaporation using ML algorithms.
 
-🌱 I’m currently learning: Advanced MLOps techniques, scalable AI deployment strategies, and understanding advanced databases.
+## 🌱 I’m currently learning: Advanced MLOps techniques, scalable AI deployment strategies, and understanding advanced databases.
 
 👯 I’m looking to collaborate on: Climate modeling, time series analysis, and AI-driven environmental solutions.
 
